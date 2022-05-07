@@ -13,6 +13,6 @@ it's obviously not the best but it does the job.
 <strong>$load</strong> : Load a file<br>
 <strong>$add</strong> : Add code to file<br>
 <strong>$rm</strong> : Remove a file<br>
-<strong>$files</strong> : Shows list your files
-<strong>$download</strong> : Download your code
+<strong>$files</strong> : Shows list your files<br>
+<strong>$download</strong> : Download your code<br>
 <strong>$git</strong> : <rm|list>
