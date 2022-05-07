@@ -14,3 +14,5 @@ it's obviously not the best but it does the job.
 <strong>$add</strong> : Add code to file<br>
 <strong>$rm</strong> : Remove a file<br>
 <strong>$files</strong> : Shows list your files
+<strong>$download</strong> : Download your code
+<strong>$git</strong> : <rm|list>
