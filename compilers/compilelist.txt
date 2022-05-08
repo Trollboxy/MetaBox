@@ -1,0 +1,1 @@
+cmpasm.avif : using nasm 2.15.05
